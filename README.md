@@ -46,7 +46,7 @@ where `10.doi.number` and `citation.bib` are replaced with the DOI of the articl
 
 ### See It In Action
 
-![](doitbib.png)
+<a href="https://asciinema.org/a/RiD2TgFBDGluym4IlDSQ35pZZ" target="_blank"><img src="https://asciinema.org/a/RiD2TgFBDGluym4IlDSQ35pZZ.svg" /></a>
 
 ## Advanced Usage
 
@@ -61,6 +61,10 @@ done
 where `citation.bib` is the name of your bibliography file, respectively. Make sure you are performing this action in the folder where your articles are saved. This will run the script on every PDF file and gather the bibliography information into `citation.bib`.
 
 Remember to double check your file to ensure that a BibTeX entry is found for every article. If there is an error in the DOI extraction, search for the DOI number yourself and run the script with the number instead of the filename.
+
+### See It In Action
+
+<a href="https://asciinema.org/a/oadrTOax29dg1pObn6alu6ALJ" target="_blank"><img src="https://asciinema.org/a/oadrTOax29dg1pObn6alu6ALJ.svg" /></a>
 
 ## Planned Features
 
