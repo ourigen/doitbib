@@ -46,7 +46,7 @@ where `10.doi.number` and `citation.bib` are replaced with the DOI of the articl
 
 ### See It In Action
 
-<a href="https://asciinema.org/a/RiD2TgFBDGluym4IlDSQ35pZZ" target="_blank"><img src="https://asciinema.org/a/RiD2TgFBDGluym4IlDSQ35pZZ.svg" /></a>
+<a href="https://asciinema.org/a/XDtAICiieRaHjw4EJM6LEJBPa" target="_blank"><img src="https://asciinema.org/a/XDtAICiieRaHjw4EJM6LEJBPa.svg" /></a>
 
 ## Advanced Usage
 
