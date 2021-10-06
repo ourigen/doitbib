@@ -9,7 +9,7 @@ In one command, you have just gathered every bibliographic information available
 
 ## Installation
 
-In addition to `bash` for running Bash scripts, you will need `pdfinfo` and `pdftotext` installed on your device. For mainstream Linux distributions, they should already be installed. If not, install `poppler-utils` using your respective package manager, such as
+In addition to `sh` for running shell scripts, you will need `pdfinfo` and `pdftotext` installed on your device. For mainstream Linux distributions, they should already be installed. If not, install `poppler-utils` using your respective package manager, such as
 
 ```sh
 sudo apt-get install poppler-utils    # Ubuntu, Debian, or derivatives
@@ -23,7 +23,7 @@ macOS or Windows.
 Then, clone this repository:
 
 ```sh
-git clone https://github.com/ourigen/doi2bib.git
+git clone https://github.com/ourigen/doitbib.git
 ```
 
 ## Usage
